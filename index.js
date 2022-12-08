@@ -1,5 +1,5 @@
-console.log("Selamat datang di belajar GIT Dasar!!!");
+function sayHello(name) {
+	console.log('Hello', name);
+}
 
-let name = "Irwanto";
-
-console.log(name);
+sayHello("Irwanto");
